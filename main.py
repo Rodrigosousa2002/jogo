@@ -10,3 +10,4 @@ desc =  5
 desc= desc/100*valororig
 valorfinal= desc-valororig
 print("valorfinal", valorfinal)
+
